@@ -41,8 +41,8 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.MY_CUSTOM_TOKEN }}
-          branch: master # veya ana branch ismi
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main # veya ana branch ismi
           force: true
           directory: .
 
