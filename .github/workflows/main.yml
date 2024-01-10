@@ -42,7 +42,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.MY_CUSTOM_TOKEN }}
-          branch: main # veya ana branch ismi
+          branch: master # veya ana branch ismi
           force: true
           directory: .
 
