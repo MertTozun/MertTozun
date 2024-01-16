@@ -45,7 +45,6 @@
 </div>
 
 ###
-<br />
 
 <br clear="both">
 
