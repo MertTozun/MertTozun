@@ -47,6 +47,8 @@
 ###
 <br />
 
-<img src="https://github.com/MertTozun/MertTozun/blob/output/github-contribution-grid-snake2.svg" />
+<br clear="both">
+
+<img src="https://raw.gitgubusercontent.com/MertTozun/MertTozun/output/snake.svg" alt="Snake animation" />
 
 ###
